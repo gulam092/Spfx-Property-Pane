@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfxweb-part-component-client-side-solution",
+    "id": "4a915dc4-b5b9-4941-a793-11fb102f7ace",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfxweb-part-component description"
+      },
+      "longDescription": {
+        "default": "spfxweb-part-component description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfxweb-part-component Feature",
+        "description": "The feature that activates elements of the spfxweb-part-component solution.",
+        "id": "1a0fd320-34a2-4abd-81df-58d52f0e882b",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfxweb-part-component.sppkg"
+  }
+}
